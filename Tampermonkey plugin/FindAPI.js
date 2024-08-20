@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         API Finder
-// @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  hit the button and find the api then auto download 
 // @match        *://*/*
